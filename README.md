@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @oscarbelda86
-- 👀 I’m interested in hacking, videogames, basketball, music and computer science.
+- 👀 I’m interested in hacking, data science, AI ,videogames, basketball and music.
 - 🌱 I’m currently a computer science student.
 - 💞️ I’m looking to collaborate on anything that seems interesting.
 - 📫 How to reach me:
